@@ -1,0 +1,41 @@
+Feedback on the 4003-243 Project 2: 
+
+Course: 	CS 3
+
+My name is: 	Samuel Babalola
+
+My account is: 	sob8666@rit.edu
+
+What did you learn by doing this assignment?
+
+	I learned how to make an MVC type program, in a real world like situation.
+
+
+What was easy about this assignment?
+
+	Making the GUI's where easy, it just took alot of typing
+
+
+What was harder than you originally thought?
+
+	Making the Bank Model was harder than I originally thought, maybe it was
+	because i misinterpreted the instructions.
+
+
+What can the instructor do to improve this assignment?
+
+	The instructions where a little vague, a feel like the instructions should
+	go more in depth.
+
+
+What would you have liked to do in this assignment?
+
+	I would have liked the Bank GUI to be able to create and delete Accounts,
+	due to my misinterpretation of the instructions, i added the create Account
+	option.
+
+
+What other issues would you like to discuss?
+
+	There is no other issues that i would like to discuss.
+
